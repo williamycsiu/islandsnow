@@ -8,3 +8,19 @@
   box-shadow: none;
   border: none;
 }
+
+.text {
+  font-size: 22px;
+  color: #ffffff;
+}
+
+.footer-background {
+  background-color: #292929;
+  height: 300px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.black {
+  background-color: black;
+}
